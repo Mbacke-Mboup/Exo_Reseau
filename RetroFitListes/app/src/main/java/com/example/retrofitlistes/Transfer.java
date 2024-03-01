@@ -7,6 +7,6 @@ public class Transfer {
 
     public String b;
 
-    public List<Integer> c;
+    public List<Long> c;
 
 }
